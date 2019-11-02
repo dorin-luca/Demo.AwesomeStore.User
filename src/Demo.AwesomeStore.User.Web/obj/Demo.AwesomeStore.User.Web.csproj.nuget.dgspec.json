@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luca Dorin\\Documents\\Meh\\Demo.AwesomeStore\\Demo.AwesomeStore.User\\src\\Demo.AwesomeStore.User.Web\\Demo.AwesomeStore.User.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luca Dorin\\Documents\\Meh\\Demo.AwesomeStore\\Demo.AwesomeStore.User\\src\\Demo.AwesomeStore.User.Web\\Demo.AwesomeStore.User.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luca Dorin\\Documents\\Meh\\Demo.AwesomeStore\\Demo.AwesomeStore.User\\src\\Demo.AwesomeStore.User.Web\\Demo.AwesomeStore.User.Web.csproj",
+        "projectName": "Demo.AwesomeStore.User.Web",
+        "projectPath": "C:\\Users\\Luca Dorin\\Documents\\Meh\\Demo.AwesomeStore\\Demo.AwesomeStore.User\\src\\Demo.AwesomeStore.User.Web\\Demo.AwesomeStore.User.Web.csproj",
+        "packagesPath": "C:\\Users\\Luca Dorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luca Dorin\\Documents\\Meh\\Demo.AwesomeStore\\Demo.AwesomeStore.User\\src\\Demo.AwesomeStore.User.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luca Dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
